@@ -4,9 +4,9 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
+- Họ tên:Lê Phi Trường
+- Mã sinh viên:1671020330
+- Nhóm:6
 - Vai trò dự kiến trong nhóm:
 - Hệ điều hành:
 - Ghi chú:
@@ -37,6 +37,6 @@ Windows:
 .\scripts\collect_session01_evidence.ps1
 ```
 ---
-**Submitted by:** L� Phi Tru?ng (MSSV: 248)
+**Submitted by:** L� Phi Tru?ng (MSSV: 248)
 
 Synchronized with reference evidence from `LeThiBinh11022005` and submitted to the class repository on 2026-05-12.
