@@ -138,8 +138,6 @@ flowchart LR
   Analytics --> Dash[Dashboard / Frontend]
 ```
 
----
-
 ## 10. Biến môi trường gợi ý (không hard-code host nhóm khác)
 
 ```env
