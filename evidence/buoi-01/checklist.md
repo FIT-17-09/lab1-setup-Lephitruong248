@@ -22,13 +22,13 @@
 ## GitHub
 
 - [x] Đã clone repo lớp.
-- [ ] Đã tạo branch Buổi 1.
-- [ ] Đã commit minh chứng Buổi 1.
-- [ ] Đã push lên GitHub.
+- [x] Đã tạo branch Buổi 1.
+- [x] Đã commit minh chứng Buổi 1.
+- [x] Đã push lên GitHub.
 
 ## OBE Evidence
 
 - [x] `evidence/buoi-01/tool-versions.txt` có nội dung.
-- [ ] `evidence/buoi-01/hello-world.txt` có nội dung.
+- [x] `evidence/buoi-01/hello-world.txt` có nội dung.
 - [x] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
 - [x] Nếu còn lỗi, đã ghi vào `known-issues.md`.
